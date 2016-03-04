@@ -1,0 +1,28 @@
+name: Kellijean
+favicon: null
+layout_spectrum: 0.8530765166506171
+typography_spectrum: 0.25212346855551004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.24437801004387438
+  lightness: 0.4343058434315026
+  saturation: 0.9526299077551812
+  rhythmicContrast: 0.37302697473205626
+purpose: []
